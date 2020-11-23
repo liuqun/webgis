@@ -1,0 +1,10 @@
+{
+  "name": "webgis",
+  "version": "1.0.0",
+  "description": "webgis",
+  "author": "Liu Qun <517067180@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cesium": "^1.75.0"
+  }
+}
