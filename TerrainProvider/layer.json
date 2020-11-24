@@ -1,0 +1,6 @@
+{"author":"lmw",
+"format":"heightmap-1.0",
+"version":"1.0.0",
+"scheme":"tms",
+"tiles":["http://192.168.10.15/WeServer/tms/1.0.0/acdem@wgs84_c/{z}/{x}/{y}.terrain"]
+}
